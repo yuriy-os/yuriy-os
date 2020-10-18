@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yura</h1>
 <h3 align="center">A Data Engineer with a background in Data Science (NLP)</h3>
 
-I really like the **Engineering Part™** in Data Science and my experience working on **Natural Language Processing** projects helps me to understand the needs and challenges of a full lifecycle of a Machine Learning project.
+I really like the **Engineering Part™** of Data Science and my experience working on **Natural Language Processing** projects helps me to understand the needs and challenges of a full lifecycle of a Machine Learning project.
 
 I'm always out and open to new opportunitites, always eager to learn something new every day.
 
